@@ -24,11 +24,10 @@ Before You Interact,
 
 🐠 My Hobbies
 
+*. I like drawing
+.* Exploring,
+*. Learning about new stuff.
 
-Insert hobbiez here
-
-
-╭────────────────────────╮ │ ⚓ CREATURE REPORT! │ │ │ │ 🐻‍❄️ Captain's Log: │ │ All systems ready! │ │ │ │ 🌊 Explore! │ │ 🐠 Rescue! │ │ 🐙 Protect! │ ╰────────────────────────╯
 
 🚢 Captain's Log
 

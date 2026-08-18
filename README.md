@@ -31,8 +31,8 @@ Before You Interact,
 
 🚢 Captain's Log
 
-“No matter how deep the ocean gets,
-there's always something new to discover.” 🌊
+${\textsf{\color{#90CAF9}“No matter how deep the ocean gets,
+there's always something new to discover.”}}$ **`🌊`**
 
 ⚓ Thanks for visiting my profile!
 🐻‍❄️ Grab your diving gear and enjoy the adventure! 🐠✨

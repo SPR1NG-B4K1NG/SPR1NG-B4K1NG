@@ -24,7 +24,9 @@ I may be quiet sometimes, but I'm always happy to see friendly faces. 🌟
 🎈 Cute and colorful aesthetics
 🧁 Fun Stuff
 
-╭───────────────╮ │ 🎈 LOOEY! │ │ POP! POP! │ │ ★ ★ ★ ★ ★ │ ╰───────────────╯
+╭───────────────╮
+🎈 LOOEY! │ │ !!! !│
+╰───────────────╯
 
 “Keep floating forward!” 🎈✨
 
